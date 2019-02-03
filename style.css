@@ -1,0 +1,22 @@
+html {
+    background: cornflowerblue;
+    color: black;
+}
+
+body {
+    margin: 0;
+}
+
+.name {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+h1 {
+    text-shadow: 10px 10px 0 rgb(221, 238, 73);
+    font-size: 100px;
+    transform: rotate(-5deg);
+}
